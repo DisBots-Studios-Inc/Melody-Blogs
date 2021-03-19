@@ -1,0 +1,28 @@
+{
+  "name": "melody-blogs",
+  "version": "1.0.0",
+  "description": "The offical blogging site for melody bot.",
+  "author": "Game Glide",
+  "repository": "https://github.com/DisBots-Studios-Inc/Melody-Blogs",
+  "bugs": {
+    "url": "https://github.com/DisBots-Studios-Inc/Melody-Blogs/issues"
+  },
+  "homepage": "https://github.com/DisBots-Studios-Inc/Melody-Blogs",
+  "keywords": [
+    "vue",
+    "vuepress",
+    "theme",
+    "blog",
+    "ououe"
+  ],
+  "scripts": {
+    "dev": "vuepress dev blog",
+    "build": "vuepress build blog",
+    "push": "deploy.sh"
+  },
+  "dependencies": {
+    "vuepress": "^1.2.0",
+    "vuepress-plugin-container": "^2.1.1",
+    "vuepress-theme-ououe": "^1.4.1"
+  }
+}
