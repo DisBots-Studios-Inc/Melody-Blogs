@@ -25,6 +25,8 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
+    - run: git config --global user.email sinha.soham@outlook.com
+    - run: git config --global user.name Game Glide
     - run: npm i
     - run: set -e
     - run: npm run build
