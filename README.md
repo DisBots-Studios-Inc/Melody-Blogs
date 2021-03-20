@@ -1,30 +1,47 @@
-# vuepress-theme-ououe-template
+# 📭 Melody-Blogs!
+Welcome to the official repo of the blogging website for the Melody Discord bot!
+This website is powered by vuepress!
 
-[Documentation](https://tolking.github.io/vuepress-theme-ououe)
+## 🎵 Melody Bot
+Melody is a music bot written in Java. It features various functions with the main focus on music.  
+It is in active development and is being improved every week.
 
-Theme by [vuepress-theme-ououe](https://github.com/tolking/vuepress-theme-ououe)
+### 🙌 Contribution
+Simply open a pull request with the template we have provided. Describe your changes and how they may affect the current project.
 
-Power by [vuepress](https://github.com/vuejs/vuepress)
+### ❗ Bugs/Features
+Open an issue on our issue tracker at GitHub, and we will reach out to you.
 
+# ⚙ Configuration
+
+## 🤔 Prerequisites 
+- Basic knowledge of javascript and vuepress
+- Editor or IDE
+- Knowledge of npm or yarn (adviced npm)
+
+### 🚀 Getting Started
+Run these commands in your terminal.  
 
 ``` bash
 # install dependencies
 $ yarn install
 # or
-$ npm install
+$ npm install #preferably npm
 
 # serve with hot reload at localhost:8080
 $ yarn dev
 # or
-$ npm run dev
+$ npm run dev #preferably npm
 
 # build for production
 $ yarn build
 # or
-$ npm run build
+$ npm run build #preferably npm
 ```
 
-Template for new post:
+# Template for new blog post:
+---
+This template is to be used when making a blog:
 ```md
 ---
 title: title
