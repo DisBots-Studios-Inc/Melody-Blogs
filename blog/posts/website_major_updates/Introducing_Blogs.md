@@ -1,13 +1,13 @@
 ---
-title: 👀 Introducing Blogs for melody!
+title: 👀 Introducing blogs for Melody!
 display: home
-image: https://picsum.photos/536/354/?random&date=2017-01-22
-date: 2021-03-19
+image: /post_covers/Website_Major_updates/Introducing_Melody_blogs_cover.png
+date: 2021-03-18
 tags:
   - Introductions
-  - Major
+  - major
 categories:
-  - Website Major updates
+  - Website major updates
 ---
 
 # Introducing Blogs for the Melody discord bot!

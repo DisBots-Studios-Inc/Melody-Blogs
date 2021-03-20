@@ -14,3 +14,5 @@ Here are some important links:
 * [Javacord](https://javacord.org/)
 * [Documentation for Melody bot](/TODO)
 * [Trello](https://trello.com/b/BpRp1LH9/melody-bot)
+
+Made by DisBots Inc. consisting of [Game Glide](https://discord.bio/p/gameworks) and [Aktindo.](https://aktindo.thedev.id/)

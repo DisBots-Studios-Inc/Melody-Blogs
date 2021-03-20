@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Melody Blogs',
-  description: 'Latest, Updates about the Melody discord bot.',
+  description: 'Latest updates about the Melody Discord bot.',
   base: '/',
   dest: 'dist/',
   theme: 'ououe',
