@@ -5,6 +5,7 @@ module.exports = {
   dest: "dist/",
   theme: "ououe",
   themeConfig: {
+    overrideTheme: 'dark',
     cover: "/cover.jpg",
     logo: "/logo.png",
     backgroundImage: false,
